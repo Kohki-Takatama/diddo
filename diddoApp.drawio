@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2023-05-07T06:26:19.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eZ_l4UVQ71Munegq2Omt" version="21.2.9" type="github">
+  <diagram name="ページ1" id="HUTVysYyQPIZ1VaZULde">
+    <mxGraphModel dx="1050" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B4C7QaY8gtyShvpdeG9M-1" value="機能要件（アイデア出し）&lt;br&gt;・1hごとに何をしたか記入する&lt;br&gt;・StartDay ~ EndDayを設定できる（俺なら睡眠を除く7:00~23:00）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="390" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
