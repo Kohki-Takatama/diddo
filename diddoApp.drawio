@@ -1,11 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T06:26:19.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eZ_l4UVQ71Munegq2Omt" version="21.2.9" type="github">
-  <diagram name="ページ1" id="HUTVysYyQPIZ1VaZULde">
+<mxfile host="app.diagrams.net" modified="2023-05-07T09:23:16.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tC4cA8QxJZYTj2iwRsvj" version="21.2.9" type="github">
+  <diagram name="brainStorming" id="HUTVysYyQPIZ1VaZULde">
     <mxGraphModel dx="1050" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B4C7QaY8gtyShvpdeG9M-1" value="機能要件（アイデア出し）&lt;br&gt;・1hごとに何をしたか記入する&lt;br&gt;・StartDay ~ EndDayを設定できる（俺なら睡眠を除く7:00~23:00）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="70" y="20" width="390" height="60" as="geometry" />
+        <mxCell id="B4C7QaY8gtyShvpdeG9M-1" value="機能要件（アイデア出し）&lt;br&gt;・1hごとに何をしたか記入する&lt;br&gt;・StartDay ~ EndDayを設定できる（俺なら睡眠を除く7:00~23:00）&lt;br&gt;・最低限かつ必要なものから&lt;br&gt;・記録＆見える化" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+          <mxGeometry x="70" y="5" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="09qeL9MbOl7Lvdf46y5N-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="09qeL9MbOl7Lvdf46y5N-7" target="09qeL9MbOl7Lvdf46y5N-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="09qeL9MbOl7Lvdf46y5N-7" value="App" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="09qeL9MbOl7Lvdf46y5N-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="09qeL9MbOl7Lvdf46y5N-10" target="09qeL9MbOl7Lvdf46y5N-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="09qeL9MbOl7Lvdf46y5N-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="09qeL9MbOl7Lvdf46y5N-10" target="09qeL9MbOl7Lvdf46y5N-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="09qeL9MbOl7Lvdf46y5N-10" value="BASE&lt;br&gt;Concept" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="09qeL9MbOl7Lvdf46y5N-12" value="Visualization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="09qeL9MbOl7Lvdf46y5N-14" value="Record" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="09qeL9MbOl7Lvdf46y5N-18" value="as Diet&lt;br&gt;User can reflect by Visualization" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="09qeL9MbOl7Lvdf46y5N-19" value="全体的に悪くないけど、良くもない。使い続けるものにはならない。" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
